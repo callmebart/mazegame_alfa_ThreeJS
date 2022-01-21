@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(188, 200, 221);
+}
+button{
+    display:block;
+    width:100px;
+    height:20px;
+    border:none;
+    border-radius:5px;
+    background-color: black;
+    color:rgb(219, 215, 215);
+}
+button:hover{
+    background-color: rgb(43, 42, 42);
+   width:102px;
+   height:22px;
+}
+#menu{
+    position:absolute;
+    top:0;
+}
+#klon{
+    position: absolute;
+    right:10%;
+    top:0;
+    width:100px;
+    height:20px;
+    border:none;
+    border-radius:5px;
+    background-color: black;
+    color:rgb(219, 215, 215);
+}
+#klon:hover{
+    background-color: rgb(43, 42, 42);
+   width:102px;
+   height:22px;
+}
+#start{
+        position: absolute;
+        right:10%;
+        top:30px;
+        width:100px;
+        height:20px;
+        border:none;
+        border-radius:5px;
+        background-color: black;
+        color:rgb(219, 215, 215);
+
+}
+#start:hover{
+    background-color: rgb(43, 42, 42);
+   width:102px;
+   height:22px;
+}
+#KILL{
+    position: absolute;
+    right:10%;
+    top:60px;
+    width:100px;
+    height:20px;
+    border:none;
+    border-radius:5px;
+    background-color: black;
+    color:rgb(219, 215, 215);
+
+}
+#KILL:hover{
+    background-color: rgb(43, 42, 42);
+   width:102px;
+   height:22px;
+}
+#usun{
+    position: absolute;
+    right:10%;
+    top:90px;
+    width:100px;
+    height:20px;
+    border:none;
+    border-radius:5px;
+    background-color: black;
+    color:rgb(219, 215, 215);
+
+}
+#usun:hover{
+    background-color: rgb(43, 42, 42);
+   width:102px;
+   height:22px;
+}
